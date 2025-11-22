@@ -1,6 +1,6 @@
 # 🎮 L2jACIS_382 🚀
 
-Bem-vindo ao **L2jACIS_409**, repositório oficial da base **ACIS do L2j (Lineage 2 Interlude)** 💻.  
+Bem-vindo ao **L2jACIS_382**, repositório oficial da base **ACIS do L2j (Lineage 2 Interlude)** 💻.  
 Este espaço centraliza **códigos, recursos e ferramentas essenciais** para desenvolvimento, testes e otimização de servidores ⚡.  
 Ideal para desenvolvedores e administradores que querem explorar, personalizar e estudar a base ACIS de forma organizada. 🛠️
 
