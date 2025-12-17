@@ -1,4 +1,4 @@
-# - 🎮 L2jACIS_382 
+#  🎮 L2jACIS_382 
 
 Este repositório tem como objetivo:  
 - Fornecer a base ACIS 3.8.2 para servidores Lineage 2 Interlude.  
