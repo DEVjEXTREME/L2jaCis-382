@@ -1,8 +1,4 @@
-# 🎮 L2jACIS_382 🚀
-
-Bem-vindo ao **L2jACIS_382**, repositório oficial da base **ACIS do L2j (Lineage 2 Interlude)** 💻.  
-Este espaço centraliza **códigos, recursos e ferramentas essenciais** para desenvolvimento, testes e otimização de servidores ⚡.  
-Ideal para desenvolvedores e administradores que querem explorar, personalizar e estudar a base ACIS de forma organizada. 🛠️
+# * 🎮 L2jACIS_382 
 
 Este repositório tem como objetivo:  
 - Fornecer a base ACIS 3.8.2 para servidores Lineage 2 Interlude.  
@@ -13,13 +9,6 @@ Este repositório tem como objetivo:
 
 
 > Cada pasta é organizada para que você encontre facilmente o que precisa, desde código-fonte até documentação de uso.
-
----
-
-## 📜 Licença
-
-Todo o conteúdo deste repositório está sob **MIT License**, permitindo **uso, modificação e distribuição livre**, garantindo liberdade e transparência no desenvolvimento.  
-Veja [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
@@ -38,6 +27,3 @@ Veja [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-### 🔥 Notas Finais
-
-Este repositório será atualizado conforme novas versões da base ACIS forem estudadas ou adaptadas, servindo como **referência centralizada para desenvolvedores**, mantendo tudo organizado e acessível para testes, aprendizado e personalização de servidores Lineage 2 Interlude.
